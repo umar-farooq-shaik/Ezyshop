@@ -31,7 +31,7 @@ const Navbar = () => {
           </Link>
           <Link href="/" className="ml-4 flex lg:ml:0 gap-x-2">
             <p className="font-extrabold text-5xl font-nunito bg-customTeal dark:bg-gradient-to-r from-Green to-Yellow inline-block text-transparent bg-clip-text">
-              Ezyshop
+              Ezys
             </p>
           </Link>
         </div>
